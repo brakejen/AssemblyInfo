@@ -4,3 +4,9 @@ C:\Users\brakejen\source\repos\GetAssemblyInfo\GetAssemblyInfo\bin\Debug\GetAsse
 C:\Users\brakejen\source\repos\GetAssemblyInfo\GetAssemblyInfo\obj\x86\Debug\GetAssemblyInfo.csproj.CoreCompileInputs.cache
 C:\Users\brakejen\source\repos\GetAssemblyInfo\GetAssemblyInfo\obj\x86\Debug\GetAssemblyInfo.exe
 C:\Users\brakejen\source\repos\GetAssemblyInfo\GetAssemblyInfo\obj\x86\Debug\GetAssemblyInfo.pdb
+C:\Users\brakejen\source\repos\AssemblyInfo\GetAssemblyInfo\bin\Debug\GetAssemblyInfo.exe.config
+C:\Users\brakejen\source\repos\AssemblyInfo\GetAssemblyInfo\bin\Debug\GetAssemblyInfo.exe
+C:\Users\brakejen\source\repos\AssemblyInfo\GetAssemblyInfo\bin\Debug\GetAssemblyInfo.pdb
+C:\Users\brakejen\source\repos\AssemblyInfo\GetAssemblyInfo\obj\x86\Debug\GetAssemblyInfo.csproj.CoreCompileInputs.cache
+C:\Users\brakejen\source\repos\AssemblyInfo\GetAssemblyInfo\obj\x86\Debug\GetAssemblyInfo.exe
+C:\Users\brakejen\source\repos\AssemblyInfo\GetAssemblyInfo\obj\x86\Debug\GetAssemblyInfo.pdb
